@@ -9,7 +9,7 @@ Localization 愛鳳應用程式的本地化語言
  
 * 關於應用程式設定區的語言在地化設定
 
- ！[](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_12/main/a.File%20-%20Res%20-%20Setting%20Bundle.png)
+ ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_12/main/a.File%20-%20Res%20-%20Setting%20Bundle.png)
 
 * 關於畫面上文字的語言在地化設定
 
