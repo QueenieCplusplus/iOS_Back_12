@@ -1,6 +1,12 @@
 # iOS_Back_12
 Localization 愛鳳應用程式的本地化語言
 
+* 關於應用程式的名稱語言在地化設定
+
+
+
+* 關於畫面上文字的語言在地化設定
+
 project -> info -> localization
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_12/main/2.Localization%202.png)
