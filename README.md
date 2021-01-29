@@ -16,6 +16,8 @@ Localization 愛鳳應用程式的本地化語言
   then cpoy dir and rename it.
  
  ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_12/main/a2.copy%20file.png)
+ 
+ ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_12/main/a3.change%20value.png)
 
 * 關於畫面上文字的語言在地化設定
 
