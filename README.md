@@ -9,3 +9,7 @@ project -> info -> localization
 setup in system.
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_12/main/5.setup.png)
+
+output.
+
+![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_12/main/output.png)
